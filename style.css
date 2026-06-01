@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #171717, #c863cb);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.main-container {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+.container {
+    background-color: rgb(64, 11, 69);
+    width: 450px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.task-container {
+    background-color: rgb(42, 4, 43);
+    width: 400px;
+    min-height: 300px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.task-container h2 {
+    text-align: center;
+    color: #fdfcfd;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.input-section {
+    display: flex;
+    gap: 10px;
+}
+
+input {
+    flex: 1;
+    padding: 12px;
+    border: 2px solid #f3b6f3;
+    border-radius: 8px;
+    outline: none;
+    font-size: 16px;
+}
+
+#addBtn {
+    background-color: #c88fc9;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 15px;
+    cursor: pointer;
+}
+
+#addBtn:hover {
+    background-color: #52024d;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    background-color: #f5d8f0;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.1);
+}
+
+.task-buttons button {
+    margin-left: 5px;
+    border: none;
+    padding: 8px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.completeBtn {
+    background-color: #28a745;
+    color: white;
+}
+
+.deleteBtn {
+    background-color: #dc3545;
+    color: white;
+}
+
+.completeBtn:hover {
+    background-color: #218838;
+}
+
+.deleteBtn:hover {
+    background-color: #c82333;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
