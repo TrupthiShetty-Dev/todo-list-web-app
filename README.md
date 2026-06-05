@@ -23,7 +23,7 @@ A simple and responsive To-Do List application built using **HTML5, CSS3, and Va
 
 ### Task Added
 
-![Task Added](./P3.png)
+![Task Added](./Taskadded.png)
 
 ### Task Completed
 
