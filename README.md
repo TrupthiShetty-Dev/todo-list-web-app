@@ -1,56 +1,123 @@
-# To-Do List Web App
+# ✅ To-Do List Web App
 
-## 📌 Project Overview
-This is a simple To-Do List Web Application built using HTML, CSS, and Vanilla JavaScript. The application allows users to add tasks, mark tasks as completed, and delete tasks dynamically without refreshing the page.
+A simple and responsive To-Do List application built using **HTML5, CSS3, and Vanilla JavaScript**. This project allows users to efficiently manage their daily tasks by adding, completing, and deleting tasks in real time without page refreshes.
+
+---
 
 ## 🚀 Features
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
-- Dynamic user interface updates
-- Responsive and attractive design
 
-## 🛠 Technologies Used
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks instantly
+- ⚡ Dynamic UI updates
+- 📱 Responsive design
+- 🎨 Clean and modern interface
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](./P1.png)
+
+### Task Added
+
+![Task Added](./P3.png)
+
+### Task Completed
+
+![Task Completed](./MarkedComplete.png)
+
+### Task Deleted
+
+![Task Deleted](./TaskDeleted.png)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript (ES6)
+
+### Tools
+- Visual Studio Code
+- Live Server
+- Google Chrome
+
+---
 
 ## 📂 Project Structure
 
-```
-ToDoList/
+```bash
+todo-list-web-app/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+├── README.md
+├── P1.png
+├── P3.png
+├── MarkedComplete.png
+└── TaskDeleted.png
 ```
 
-## ▶️ How to Run the Project
+---
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-4. Start adding your tasks.
+## ⚙️ Getting Started
 
-## 📷 Screenshots
+### Clone the Repository
 
-Add screenshots of:
-- Main Interface
-- Adding Tasks
-- Completed Tasks
-- Deleting Tasks
+```bash
+git clone https://github.com/your-username/todo-list-web-app.git
+```
+
+### Navigate to the Project Folder
+
+```bash
+cd todo-list-web-app
+```
+
+### Run the Project
+
+Open `index.html` in your browser or use the **Live Server** extension in VS Code.
+
+---
 
 ## 🎯 Learning Outcomes
 
-Through this project, I learned:
+This project helped me gain practical experience in:
+
 - DOM Manipulation
 - Event Handling
-- Dynamic UI Updates
-- JavaScript ES6 Concepts
-- HTML and CSS Styling
+- Dynamic Content Rendering
+- JavaScript ES6 Features
+- Responsive Web Design
+- HTML & CSS Fundamentals
+
+---
+
+## 🔮 Future Enhancements
+
+- 💾 Local Storage Support
+- 🌙 Dark Mode
+- 📅 Task Due Dates
+- 🔍 Search & Filter Tasks
+- 📊 Task Statistics Dashboard
+
+---
 
 ## 👩‍💻 Author
 
-Trupthi Shetty
+**Trupthi Shetty**
+
+Aspiring Software Developer passionate about Web Development and building user-friendly applications.
+
+---
+
+## ⭐ Show Your Support
+
+If you found this project useful, consider giving it a **Star ⭐** on GitHub.
 
