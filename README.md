@@ -115,9 +115,4 @@ This project helped me gain practical experience in:
 
 Aspiring Software Developer passionate about Web Development and building user-friendly applications.
 
----
-
-## ⭐ Show Your Support
-
-If you found this project useful, consider giving it a **Star ⭐** on GitHub.
 
